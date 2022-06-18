@@ -6,7 +6,7 @@
  Movie app is a free site where users can watch any movies they like for free with out any form of payment or adds or issues.
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-# Am I responsive image goes here
+Am I responsive image goes here
 
 # For UX
 
