@@ -1,16 +1,55 @@
-# Frontend Mentor - Entertainment web app
-
-![Design preview for the Entertainment web app coding challenge](./preview.jpg)
 
 ## Welcome! 👋
+## Movie App
 
-Thanks for purchasing this premium Frontend Mentor coding challenge.
+# Introduction
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects. These premium challenges are perfect portfolio pieces, so please feel free to use what you create in your portfolio to show others.
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-**To do this challenge, you need a strong understanding of HTML, CSS, and JavaScript.**
+# Am I responsive image goes here
 
-## The challenge
+# For UX
+- 
+- 
+# Features
+
+# Introduction Page
+-
+- 
+- 
+- 
+- 
+- 
+-
+
+# Future Development
+- 
+- 
+-
+
+# Wireframes
+- 
+- 
+
+# Tests
+- 
+- 
+
+# Technologies Used
+- HTML 
+- Bootstrap
+- Javascript
+
+# Deployment
+
+# Credit Frontend Mentor - Entertainment web app
+
+<!-- [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects. These premium challenges are perfect portfolio pieces, so please feel free to use what you create in your portfolio to show others. -->
+
+<!-- **To do this challenge, you need a strong understanding of HTML, CSS, and JavaScript.** -->
+
+<!-- ## The challenge
 
 Your challenge is to build out this entertainment web application and get it looking as close to the design as possible.
 
@@ -26,9 +65,9 @@ Your users should be able to:
 - Add/Remove bookmarks from all movies and TV series
 - Search for relevant shows on all pages
 - **Bonus**: Build this project as a full-stack application
-- **Bonus**: If you're building a full-stack app, we provide authentication screen (sign-up/login) designs if you'd like to create an auth flow
+- **Bonus**: If you're building a full-stack app, we provide authentication screen (sign-up/login) designs if you'd like to create an auth flow -->
 
-### Expected Behaviour
+<!-- ### Expected Behaviour
 
 - General
   - The navigation menu should be fixed to the left for larger screens. Use the "Desktop - Home" page in the design as a visual reference.
@@ -43,19 +82,17 @@ Your users should be able to:
   - Any search input should search through all TV series
 - Bookmarked Shows
   - This page should display all bookmarked shows from both categories
-  - Any search input should search through all bookmarked shows
+  - Any search input should search through all bookmarked shows -->
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
-
-## Where to find everything
+<!-- ## Where to find everything
 
 Your task is to build out the project to the design file provided. We provide both Sketch and Figma versions of the design, so you can choose which tool you prefer to use. You can download the design file on the platform. **Please be sure not to share them with anyone else.** The design download comes with a `README.md` file as well to help you get set up.
 
 All the required assets for this project are in the `/assets` folder. The assets are already exported for the correct screen size and optimized. Some images are reusable at multiple screen sizes. So if you don't see an image in a specific folder, it will typically be in another folder for that page.
 
-The design system in the design file will give you more information about the various colors, fonts, and styles used in this project. Our fonts always come from [Google Fonts](https://fonts.google.com/).
+The design system in the design file will give you more information about the various colors, fonts, and styles used in this project. Our fonts always come from [Google Fonts](https://fonts.google.com/). -->
 
-## Building your project
+<!-- ## Building your project
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
@@ -64,9 +101,9 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
 4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
 5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on. -->
 
-## Deploying your project
+<!-- ## Deploying your project
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
@@ -74,15 +111,15 @@ As mentioned above, there are many ways to host your project for free. Our recom
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe). -->
 
-## Create a custom `README.md`
+<!-- ## Create a custom `README.md`
 
 We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
 
 The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file. -->
 
 ## Submitting your solution
 
