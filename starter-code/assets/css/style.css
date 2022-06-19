@@ -1,0 +1,57 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+
+body { 
+    background-color: #1b1e4b;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    display: flex;
+}
+
+.nav-bar { 
+    margin: 20px;
+    background-color: #22265e;
+    width: 80px;
+}
+
+li { 
+    list-style: none;
+}
+
+img { 
+    margin: 20px;
+}
+
+.logo { 
+    height: 40px;
+}
+
+.home { 
+    height: 40px;
+}
+
+.movie { 
+    height: 40px;
+}
+
+.tv-series { 
+    height: 40px;
+}
+
+.bookmark { 
+    height: 40px;
+}
+
+main { 
+    margin-top: 20px;
+}
+
+.trending { 
+    margin-top: 80px;
+}
+
+.recommended { 
+    margin-top: 80px;
+}
